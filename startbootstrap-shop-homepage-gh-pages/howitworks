@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>SaaSDiscounts - Buy SaaS. Get Rewarded.</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="https://imgur.com/a/T6u6kc6.jpg" />
+        <!-- Bootstrap icons-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container px-4 px-lg-5">
+            <a href="http://saasdiscounts.com"><img height="40 px" src="https://imgur.com/apr68tF.jpg" alt="..." /></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                        <li class="nav-item"><a class="nav-link" href="#!">How It Works</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfwe2RNQDPOLv-LFa7K1ykwJICX_f4gammudh6YMCtKjsh-0w/viewform?usp=sf_link">Request an App</a></li>
+                        
+                    </ul>
+                 
+                </div>
+            </div>
+        </nav>
+        <!-- Header-->
+        <header class="bg-dark py-5">
+            <div class="container px-4 px-lg-5 my-5">
+                <div class="text-center text-white">
+                    <h1 class="display-4 fw-bolder">How it Works</h1>
+                    <p class="lead fw-normal text-white-50 mb-0">Use SaaSdiscounts.com. Get discounts and rewards.</p>
+                </div>
+            </div>
+        </header>
+        <!-- Section-->
+        <div class="container">
+            <div class="text-center mt-5">
+                <h1>Here's a poorly-kept secret</h1>
+                <p class="lead">SaaS companies provide discount codes or special links to LinkedInfluencers, or bloggers. These affiliates receive a cut when people use their links to buy the products they promote. Affiliate marketing is not new, but it does reveal an unspoken truth in the SaaS industry: Profit Margins are high, and SaaS companies are willing to give some of it away in exchange for new customers. <br><br></p><h1>Here's what SaaSdiscounts.com is doing differently</h1>
+                <p class="lead">We are taking some of that margin and giving it back to <u>you</u>, the customer! It's as if you've negotiated with these SaaS providers, for a better price without talking to a single sales person. <br><br><h1>Okay, but logistically, how does it work?</h1>
+                <p class="lead">1. Click an offer link on SaaSdiscounts.com. <br> 2. You'll be taken to the SaaS products' website. <br> 3. If it's a reward link, we get notified.<br> 4. Payments from the SaaS companies are batched monthly... <br> 5. ... at which point you'll be rewarded with a flexible gift card from <a href="http://tangocard.com">Tango Card</a>. <br> As time goes on, your rewards will accumulate! <br><br> </p>
+                <h1>Why are we doing this?</h1>
+                <p class="lead">We fully believe that buyers are educated enough to make decisions without talking to a salesperson. Product-led Growth is creating billion dollar companies with zero customer-salesperson interaction. It's a pleasent experience all-around. Let's make it even better by giving the buyers a perk.<br><br>
+                </p>
+            </div>
+        </div>
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; SaaSdiscounts.com 2022</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
